@@ -1,6 +1,6 @@
 
 :root{
-    --primary-color: #e50914;
+    --primary-color: #e60813;
 }
 
 *{
@@ -222,7 +222,7 @@ div .ftt{
     .btn-js h5{
         font-size: 20px;
     }
-    
+
     .text-btnJS p{
         font-size: 15px;
     }
@@ -231,7 +231,7 @@ div .ftt{
         padding: 60px;
         padding-top: 20px;
     }
-    
+
 }
 
 .contt{
@@ -253,7 +253,7 @@ div .ftt{
     .seem:hover{
         color: #ffffff;
     }
-    
+
     .reg{
         text-decoration: none;
         color: #ffffff;
