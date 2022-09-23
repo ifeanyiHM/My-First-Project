@@ -36,6 +36,18 @@
     overflow-x: auto;
 }
 
+.btnn::-webkit-scrollbar {
+    height: 0.4em;
+}
+.btnn::-webkit-scrollbar-track {
+    background: #ffffff;
+    border-radius: 100vw;
+}
+.btnn::-webkit-scrollbar-thumb {
+    background: #dad7d7;
+    border-radius: 100vw;
+}
+
 div .secbtn{
     border: 1px solid black;
     padding: 5px 15px;
