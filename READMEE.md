@@ -18,6 +18,20 @@ Create a contact form component that handles user inputs and form submissions fo
 - [ ] User feedback is provided upon form submission (success or error).
 - [ ] The form is fully responsive and styled according to the website's design.
 
+## Expected Outcomes
+- Users can fill out the form fields (name, email, subject, message) without issues.
+- Proper validation messages are shown when required fields are empty or invalid.
+- Upon successful submission, user data is sent to the backend endpoint and a success message is displayed to the user.
+- If the form submission fails, an appropriate error message is displayed.
+- The contact form looks visually appealing and matches the design specifications.
+- The form is fully functional and displays correctly on various devices (desktop, tablet, mobile).
+
+## Testing 
+  - [ ] Test that the form renders correctly with all fields.
+  - [ ] Test validation logic for each form field (e.g., empty fields, valid email format).
+  - [ ] Test form submission logic to ensure data is captured correctly.
+  - [ ] Test response handling to ensure correct feedback is provided on success or failure.
+
 
 ### Figma Link 
 [Figma Design Link](https://www.figma.com/design/YuSWmyL62oKMiJarogzXTb/Team-Telex?node-id=3152-12450&t=fUS76u4oHNGEPURV-4)
